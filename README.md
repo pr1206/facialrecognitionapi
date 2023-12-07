@@ -1,6 +1,6 @@
 # Face Recognition App
 ## Overview
-This React application integrates with a back-end server to perform face recognition on images. Users can register, sign in, input image URLs, and receive real-time face detection results. The app communicates with a server deployed on Heroku for image processing.
+This React application integrates with a back-end server to perform face recognition on images. Users can register, sign in, input image URLs, and receive real-time face detection results. The app communicates with a server deployed on Heroku for image processing. The code in this repository is for backend.
 
 ## Features
 User authentication with sign-in and registration functionality. \
